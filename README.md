@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ik.imagekit.io/95evydcvm/Navy%20And%20White%20Geomteric%20Technology%20Linkedln%20Banner%20(1).png" width="100%" height="400px" style="border-radius: 12px;" />
+  <img src="https://ik.imagekit.io/95evydcvm/Navy%20And%20White%20Geomteric%20Technology%20Linkedln%20Banner%20(2).png" width="100%" height="400px" style="border-radius: 12px;" />
 </p>
 
 ---
