@@ -16,13 +16,13 @@
   <a href="https://github.com/Sima-akhter">
     <img src="https://img.shields.io/badge/GitHub-2B2D42?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/sima-akter-6b4b3b3a3/">
     <img src="https://img.shields.io/badge/LinkedIn-3A86FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://remarkable-panda-1d76b7.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-  <a href="mailto:simaakter@gmail.com">
+  <a href="mailto:simaakter5301@gmail.com">
     <img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -50,11 +50,33 @@ I’m a passionate **Frontend Web Developer** who loves building elegant, respon
 
 ---
 
+---
+
+## 🚀 Current Activities
+
+- 🌱 Learning **Next.js & Advanced React**
+- 💼 Working on a **Tourism Website Project**
+- 🔧 Building reusable UI components with React
+- 📚 Practicing JavaScript problem solving
+
+---
+
 ## ✨ A Little About Me
 - 🌙 I enjoy coding during **quiet nights**
 - ☕ Tea keeps me focused and creative
 - 📚 Learning something new every day
 - 🎧 Music + Coding = Productivity boost 💜
+
+---
+
+---
+
+## 📫 Contact Info
+
+<p align="center">
+  📍 <b>Location:</b> Dhaka, Bangladesh <br/>
+  📧 <b>Email:</b> <a href="mailto:simaakter5301@gmail.com">simaakter5301@gmail.com</a>
+</p>
 
 ---
 
@@ -93,6 +115,10 @@ I’m a passionate **Frontend Web Developer** who loves building elegant, respon
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sima-akhter&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 👁️ Profile Views
 <p align="center">
