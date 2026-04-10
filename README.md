@@ -120,6 +120,14 @@ I’m a passionate **Frontend Web Developer** who loves building elegant, respon
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sima-akhter&theme=tokyonight&hide_border=true"/>
 </p>
+---
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div> 
 
 ## 👁️ Profile Views
 <p align="center">
@@ -134,10 +142,4 @@ I’m a passionate **Frontend Web Developer** who loves building elegant, respon
 
 ⭐ Designed with 💜 by **Sima Akter**
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div> 
+
