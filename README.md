@@ -11,14 +11,6 @@
 </p>
 
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div> 
-
 <!-- ===================================================== -->
 <!-- Social Links -->
 <p align="center">
@@ -141,3 +133,11 @@ I’m a passionate **Frontend Web Developer** who loves building elegant, respon
 </p>
 
 ⭐ Designed with 💜 by **Sima Akter**
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div> 
