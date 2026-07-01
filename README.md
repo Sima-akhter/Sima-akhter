@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/sima-akter-6b4b3b3a3/">
     <img src="https://img.shields.io/badge/LinkedIn-3A86FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://remarkable-panda-1d76b7.netlify.app/">
+  <a href="https://sima26.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="mailto:simaakter5301@gmail.com">
